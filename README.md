@@ -1,5 +1,5 @@
 # lista-tarefas-react
-
+link do deploy: https://task-list-conway.surge.sh/
 ## Overview
 ---
 Aplicação realizada com orientação de praticas guiadas do bootcamp da labenu com objetivo de implementar as seguintes tarefas
@@ -18,3 +18,5 @@ Aplicação realizada com orientação de praticas guiadas do bootcamp da labenu
 - projeto realizado com **REACT**
 - uso de styled-components em estilização
 - projeto roda ao usar npm install seguindo npm run start em port 3000
+
+
